@@ -1,0 +1,3 @@
+# Cython / Zernike
+
+Cython code in order to quickly calculate wavefront using Extended Nijboer-Zernike approach. This code was developed as part of the effort to simulate point-spread functions in the Prime Focus Spectrograph projects. I have since abandoned this effort due to 1. Difficulty of implement catching together with Cython, 2. Non-circular elements (detector and struts) in the illumination of the pupil, making spherical description of the pupil non-optimal. 
